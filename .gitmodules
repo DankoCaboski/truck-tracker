@@ -1,0 +1,3 @@
+[submodule "truck-tracker-backend"]
+	path = truck-tracker-backend
+	url = https://github.com/DankoCaboski/truck-tracker-backend
